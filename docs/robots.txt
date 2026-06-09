@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rolandomoldo0yl7.github.io/my-fifa-9n8l/sitemap.xml
